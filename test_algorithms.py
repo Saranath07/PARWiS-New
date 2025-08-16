@@ -164,7 +164,7 @@ def parse_config_to_json_parts(config):
 if __name__ == "__main__":
 
     for N in [100]:
-        for k in [97]:
+        for k in [75]:
        
             DATASET_NAME, EXPERIMENTS, ITERATIONS, TOTAL_BUDGET_C, RANDOM_SEED = None, 20, 10, 5, 42
             total_budget, total_runs = TOTAL_BUDGET_C * N, EXPERIMENTS * ITERATIONS

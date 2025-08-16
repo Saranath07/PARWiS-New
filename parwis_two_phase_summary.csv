@@ -1,0 +1,3 @@
+Algorithm,Recovery Rate (%),Avg Rank of True Winner,Phase 1 Recovery Rate (%),Avg Phase 1 Budget,Phase 2 k
+Original PARWiS,2.00,27.03,2.00,500,N/A
+Two-Phase Algorithm,2.00,29.91,3.00,260,40
